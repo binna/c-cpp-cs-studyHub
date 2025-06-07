@@ -10,8 +10,13 @@
 ## 📂 디렉토리 구조
 
 - [Chapter1](./Chapter1): Chapter1 예제
+- [Chapter2](./Chapter2): Chapter2 예제
 
 <br>
 
 ## 📝 블로그 정리
-- Chapter1: [①](https://shine94.tistory.com/446)
+- Chapter1   
+  [정리](https://shine94.tistory.com/446)
+- Chapter2   
+  [WPF 부분 정리](https://shine94.tistory.com/448)   
+  [유니티 부분 정리]()
