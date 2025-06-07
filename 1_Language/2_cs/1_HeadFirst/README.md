@@ -11,6 +11,7 @@
 
 - [Chapter1](./Chapter1): Chapter1 예제
 - [Chapter2](./Chapter2): Chapter2 예제
+- [Chapter3](./Chapter3): Chapter3 예제
 
 <br>
 
@@ -18,5 +19,6 @@
 - Chapter1   
   [정리](https://shine94.tistory.com/446)
 - Chapter2   
-  [WPF 부분 정리](https://shine94.tistory.com/448)   
-  [유니티 부분 정리]()
+  [정리](https://shine94.tistory.com/448)
+- Chapter3   
+  [WPF 부분 정리](https://shine94.tistory.com/454)
