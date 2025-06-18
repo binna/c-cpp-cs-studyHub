@@ -21,4 +21,6 @@
 - Chapter2   
   [정리](https://shine94.tistory.com/448)
 - Chapter3   
-  [WPF 부분 정리](https://shine94.tistory.com/454)
+  [정리](https://shine94.tistory.com/454)
+- Chapter4   
+  [정리](https://shine94.tistory.com/455)
