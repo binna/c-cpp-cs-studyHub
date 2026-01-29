@@ -1,0 +1,44 @@
+#include <iostream>
+#include <map>
+
+using namespace std;
+
+int main(void)
+{
+	ios::sync_with_stdio(false);
+	cout.tie(nullptr);
+	cin.tie(nullptr);
+
+	int n, m;
+	cin >> n;
+	
+	map<int, int> table;
+
+	for (int i = 0; i < n; i++)
+	{
+		int temp;
+		cin >> temp;
+
+		table[temp]++;
+	}
+
+	cin >> m;
+
+	for (int i = 0; i < m; i++)
+	{
+		int temp;
+		cin >> temp;
+
+		auto data = table.find(temp);
+
+		if (data == table.end())
+		{
+			cout << 0 << " ";
+			continue;
+		}
+
+		cout << (*data).second << " ";
+	}
+
+	return 0;
+}
