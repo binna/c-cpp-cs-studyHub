@@ -4,11 +4,6 @@
 
 using namespace std;
 
-void DFS(int node)
-{
-	//if ()
-}
-
 int main(void)
 {
 	int n, m;
